@@ -18,11 +18,11 @@ it's so expensive(MATLAB)and whereas OCTAVE is a open source , so that everybody
 
 2.Type this in our terminal box click enter
 
-'sudo apt install octave'
+     'sudo apt install octave'
 
 3.You will get a command like this 
 
-[sudo] password for aj:
+     '[sudo] password for aj:'
 
 (where aj is my user name you will get yours)
 
