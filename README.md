@@ -15,9 +15,19 @@ it's so expensive(MATLAB)and whereas OCTAVE is a open source , so that everybody
 
 ### HOW TO INSTALL OCTAVE?
 1.Open terminal box.
-2.Type this in our terminal box (sudo apt install octave), click enter
-3.You will get a command like this [sudo] password for aj:
+
+2.Type this in our terminal box click enter
+
+'sudo apt install octave'
+
+3.You will get a command like this 
+
+[sudo] password for aj:
+
 (where aj is my user name you will get yours)
+
 When you get the above command type your password beside is to(:) even though it is not visible and then click enter.
+
 4. Installation will be processing..........it takes 3-5 minutes approx.
+
 5. Now you are done with your procedure...
