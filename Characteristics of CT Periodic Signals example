@@ -1,0 +1,11 @@
+t = (-pi:0.001:pi)/100;
+A = 1; theta = 0; f = 100;
+x = A*cos(2*pi*f*t + theta);
+ 
+figure();
+plot(t,x,'r','LineWidth',1.5);grid on
+set(gca,'fontsize',14)
+xlabel('time  ----->','FontSize',14);
+ylabel('Amplitude ----->','FontSize',14);
+title('C.T. Sinusoidal signal A cos(200*pi*t) ','FontSize',14);
+axis([-0.03, 0.03,-2.15 2.15]);
